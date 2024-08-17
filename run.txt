@@ -1,0 +1,2 @@
+for frontend = npm run dev
+for backend = node index.js
